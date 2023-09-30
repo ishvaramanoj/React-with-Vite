@@ -1,0 +1,25 @@
+.btn{
+    background-color: mediumvioletred;
+    margin: 2px;
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 16px;
+    color: white;
+}
+.header{
+    color: blue;
+}
+.crd{
+    background-color: silver;
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 8px;
+}
+.delete{
+    margin-top: 180px;
+    margin-left: 280px;
+    height: 30px;
+    width: 100px;
+}
